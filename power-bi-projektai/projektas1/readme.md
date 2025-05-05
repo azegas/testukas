@@ -1,3 +1,7 @@
 # projektas1 readme
 
-![aprasymas](./images/cat2.jpg)
+![aprasymas](./assets/images/cat2.jpg)
+
+## pdf example:
+
+[pdf](./assets/pdfs/cph-aarhus.pdf)
